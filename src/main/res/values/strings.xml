@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Светофор</string>
+    <string name="button1">Красный</string>
+    <string name="button2">Жёлтый</string>
+    <string name="button3">Зелёный</string>
+
+</resources>
